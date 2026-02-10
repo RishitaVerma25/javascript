@@ -1,6 +1,6 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(135deg, #667eea 0%, #E6E6FA 100%);
+    background: linear-gradient(135deg, #FFFFFF 0%, #afeeee 100%);
     margin: 0;
     padding: 20px;
     min-height: 100vh;
@@ -9,7 +9,7 @@ body {
 .container {
     max-width: 1200px;
     margin: 0 auto;
-    background: white;
+    background: rgb(243, 245, 245);
     border-radius: 15px;
     box-shadow: 0 10px 30px rgba(0,0,0,0.1);
     overflow: hidden;
@@ -63,7 +63,7 @@ input:focus, textarea:focus, select:focus {
 
 button {
     padding: 12px;
-    background: linear-gradient(135deg, #667eea 0%, #E6E6FA 100%);
+    background: linear-gradient(135deg, #7fc3f7 0%, #E6E6FA 100%);
     color: white;
     border: none;
     border-radius: 8px;
